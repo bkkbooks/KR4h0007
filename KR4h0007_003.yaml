@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0007/krp/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0007_WYG_003-1a, image: WYG1332/WYG1332-0006c.png}
+body:
+  text: 髙氏三宴詩集卷下唐髙正臣輯上元夜宴效小庾體并序長孫正隱九谷帝畿三川奧域交風均露上分朱鳥之躔泝洛背河下鎖蒼龍之闕多近臣之第宅即瞰銅街有貴戚之樓臺自連金苑美人競出錦帳如霞公子交馳雕鞍似月同遊洛浦疑尋稅馬之津爭渡河橋似向牽牛之渚實昌年之樂事令節之佳逰者焉凡六人同用春字為韻髙正臣詩闕崔知賢今夜啓城闉結伴戲芳春鼓聲撩亂動風光觸處新月下多逰騎燈前饒看人觀樂無窮已歌舞達明晨韓重宣他鄉月下人相伴看燈輪光隨九華出影共百枝新歌鐘盛北里車馬沸南鄰今宵何處好惟有洛城春髙瑾初年三五夜相知一兩人連鑣出巷口飛轂下池濱燈光恰似月人面併如春遨逰終未已相歡待日輪長孫正隱薄晚嘯逰人車馬亂驅塵月光三五夜燈熖一重春烟雲迷北闕簫管識南鄰洛城終不閉更出小平津陳嘉言今夜可憐春河橋多麗人寶馬金為絡香車玉作輪連手窺潘掾分頭看洛神重城自不掩出向小平津髙氏三宴詩卷下
+  hash: sha256:104f0c726c6e62347f890a2fe964c3fd235e2619d00301319e5056f735b6123f
+metadata:
+  title: 高氏三宴詩集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:30:48.809782'
+  juan_title: 卷下
+  source:
+    repository: kanripo
+    path: KR4h0007/KR4h0007_003.txt
+hash: sha256:cbba1dec32d05f1d11c064343b316a1db8f94990c299b8b30e50960981293f08

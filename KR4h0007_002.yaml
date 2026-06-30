@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0007/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0007_WYG_002-1a, image: WYG1332/WYG1332-0005c.png}
+body:
+  text: 髙氏三宴詩集卷中唐髙正臣輯晦日重宴并序周彥暉序云云缺凡八人同用池字為韻髙正臣芳晨重遊衍乘景共追隨班荆陪舊識傾蓋得新知水葉分蓮沼風花落栁枝自符河朔趣寧羡山陽池韓重宣鳳苑仙吹晚龍樓夕照披陳遵已投轄山公正坐池落日催金奏飛霞送玉巵此時陪綺席不醉欲何為弓嗣初年華藹芳隰春溜滿新池促賞依三友延歡寄一巵鳥聲隨管變栁影逐風移行樂方無極淹留惜晚曦髙瑾忽聞鶯響谷於此命相知正開彭澤酒來向髙陽池栁葉風前弱梅花影處危賞洽林亭晚落照下參差陳嘉言髙門臨冠蓋下客抱支離綺席珍羞滿文場藻翰摛蓂花雕上葉栁色靄春池日斜歸戚里連騎勒金羈周彥暉春華歸栁岸晦景落􅕴枝置驛銅街右開筵玉浦陲烟林含帳密竹雨帶珠危興闌巾倒戴山公下習池髙嶠駕言尋鳳侣乘歡俯雁池班荆逢舊識斟桂喜深知紫蘭方出徑黃鶯未囀枝别有陶春日青天雲霧披周思鈞綺筵乘晦景髙宴下陽池濯雨梅香散含風栁色移輕塵依扇落流水如弦危勿顧林亭晚方歡雲霧披髙氏三宴詩集卷中
+  hash: sha256:d319d4446f745dc0c4c8d9b450ec61caf1f0699abd2f57eb31157897819d4908
+metadata:
+  title: 高氏三宴詩集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:30:48.809782'
+  juan_title: 卷中
+  source:
+    repository: kanripo
+    path: KR4h0007/KR4h0007_002.txt
+hash: sha256:89a40dc780ca8e0c325762201c4ff3d66f1ad800be68e078c855b6eba9ffe9ea

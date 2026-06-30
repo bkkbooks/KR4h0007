@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0007/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高氏三宴詩集詩後高正臣廣平人連姻帝室官至衛尉卿寓居洛陽善詠愛客一時名士多所交接習右軍書法睿宗愛其筆金陵棲霞寺有其所書碑攝山棲霞寺明徵君之碑南齊徵君明僧紹平原人周思鈞貝州漳南人與兄思茂俱早知名武后時為太子文學劉禕之被收臨刑洗沐神色自若援筆為表詞理􅈤至思鈞稱嘆其文武后惡之貶揚州司倉參軍以中書舍人終
+  hash: sha256:31608470a9e8600bd63c3b948e5be1b873235b415c0945dd821c0db66ada4cd8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0007_WYG_004-1a, image: WYG1332/WYG1332-0007c.png}
+metadata:
+  title: 高氏三宴詩集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:30:48.809782'
+  juan_title: 詩後
+  source:
+    repository: kanripo
+    path: KR4h0007/KR4h0007_004.txt
+hash: sha256:938d862ecff5e3885983fff94294be2a9945cc728956029d961345aa8d49994d

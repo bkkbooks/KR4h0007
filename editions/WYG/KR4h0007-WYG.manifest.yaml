@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR4h0007/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4h0007/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高氏三宴詩集
+  date: '2015-08-25 00:30:48.809782'
+  source:
+    repository: kanripo
+    path: KR4h0007
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4h0007_000-WYG.yaml, hash: 'sha256:8fdb0ada607fc10def462b0c6889db9f9fad4d0d2e1aa1d744d0476bad625214'}
+  - {seq: 1, filename: KR4h0007_001-WYG.yaml, hash: 'sha256:e2b2ced95eeb77690297b754ea1ad075ee67d41d7f3eb22e31f268f6f8bb7568'}
+  - {seq: 2, filename: KR4h0007_002-WYG.yaml, hash: 'sha256:e12dec118b7a9160c5c800082641e4e593f294c5d65cc7125f3dbc47fe6aa734'}
+  - {seq: 3, filename: KR4h0007_003-WYG.yaml, hash: 'sha256:7e9524bc1157e6b5203cb93f8ada0a55fd6470f034bbe3216ed63870caca371b'}
+  - {seq: 4, filename: KR4h0007_004-WYG.yaml, hash: 'sha256:0ce37f67434bf8d1d1c5240c770e56bff4f2041a97ccc6a850ca37eeeec97936'}
+  - {seq: 5, filename: KR4h0007_005-WYG.yaml, hash: 'sha256:a5c059279a051673f899fed46d65073cc3c5e475c65aa7d387e50d06e8b72fff'}
+  - {seq: 6, filename: KR4h0007_006-WYG.yaml, hash: 'sha256:275c1b676899032f3d4937c5f02835012e9abe316cf269363c8c92c29ec4fe8e'}
+  - {seq: 7, filename: KR4h0007_007-WYG.yaml, hash: 'sha256:4212a4e641b93ec7111ceac9797e2338979220a98c8518bcbd0bf8bebbd08de3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4h0007_000-WYG.markers.yaml, hash: 'sha256:227512a26f74804602d8c885f2a31188dcec7e0ed691584c03d211a990637ad8'}
+  - {seq: 1, role: markers, filename: assets/KR4h0007_001-WYG.markers.yaml, hash: 'sha256:fcac875368109b3653102b70f6695e2af78e08ade3bc096fa3e464417bb9cb64'}
+  - {seq: 2, role: markers, filename: assets/KR4h0007_002-WYG.markers.yaml, hash: 'sha256:851429ff2e63b05e82b90ee1d9d8c6f00cb533418bbf8497816f2cd5856cdcd9'}
+  - {seq: 3, role: markers, filename: assets/KR4h0007_003-WYG.markers.yaml, hash: 'sha256:e2e7e62edb213f6e3e30f9ef9313abee6d3cfd2213ca5030866eaa0fd205c99c'}
+  - {seq: 4, role: markers, filename: assets/KR4h0007_004-WYG.markers.yaml, hash: 'sha256:4f8e4468f9310cc7ef46654bf039058a70d750a02cacd810820bbc6220d42617'}
+  - {seq: 5, role: markers, filename: assets/KR4h0007_005-WYG.markers.yaml, hash: 'sha256:69d750c18a5b7793659928360f89b64029b0377fbce4a48a1aca301ca28d111e'}
+  - {seq: 6, role: markers, filename: assets/KR4h0007_006-WYG.markers.yaml, hash: 'sha256:460a77d03739889e303e72a751a74e8efe76f403b90f930c82907a9090f5996a'}
+  - {seq: 7, role: markers, filename: assets/KR4h0007_007-WYG.markers.yaml, hash: 'sha256:5782b5326c3fe293d4b2058d401605caf681fecadbc4ffc56d2f960613229e2c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4h0007_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 486
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4h0007_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1086
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4h0007_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 385
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4h0007_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 360
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4h0007_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 147
+  label: 詩後
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4h0007_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 208
+  label: 香山九老詩序
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4h0007_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 18
+  label: 香山九老詩爵里紀年
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4h0007_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 675
+  label: 香山九老詩
+  type: section
+  level: 1
+hash: sha256:987c5fe25e1b912fe2f0ca6bd691eaf660c7f69e2ce7d5d3ad33fc39a99a2e55
