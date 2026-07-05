@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4h0007/krp/v1/juan/6
 seq: 6
 front:
-  text: 香山九老詩爵里紀年胡杲安定人前懷州司馬年八十九吉皎馮翊人衛尉卿致仕年八十八劉貞廣平人前磁州刺史年八十七鄭豦榮陽人前龍武衛長史年八十五盧貞范陽人前侍御史內供奉官年八十三張渾清和人前永州刺史年七十七白居易太原人刑部尚書致仕年七十四李元爽洛中遺老年一百三十六禪僧如滿年九十五
-  hash: sha256:363b9b7f3583abb1f74e513aacf71aa894188992af6b3858e0b132b081b81ead
+  text: 香山九老詩爵里紀年胡杲安定人前懷州司馬年八十九吉皎馮翊人衛尉卿致仕年八十八劉貞廣平人前磁州刺史年八十七鄭豦榮陽人前龍武衛長史年八十五盧貞范陽人前侍御史内供奉官年八十三張渾清和人前永州刺史年七十七白居易太原人刑部尚書致仕年七十四李元爽洛中遺老年一百三十六禪僧如滿年九十五
+  hash: sha256:757fd5c6c76d963e10d1f19d2017702d8bbc3ef1dd9ea464371a9117326c16a8
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0007_WYG_006-1a, image: WYG1332/WYG1332-0008c.png}
 body:
-  text: 雖與㑹而不及列狄兼謨祕書監盧貞河南尹
-  hash: sha256:0cf89f4d4a38ce0a5bcb7ef21709d6852900ae699d9ca907d3458237ecd8dae9
+  text: 雖與㑹而不及列狄兼謨秘書監盧貞河南尹
+  hash: sha256:1a06f2d36902701b99f37caa5f763c74ac2567a382cde79a930922cf824934cf
 metadata:
   title: 高氏三宴詩集
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0007/KR4h0007_006.txt
-hash: sha256:5de76c601a1f4163c71da97d35839fde41fbd6a0d7317e2d805b4cbee5d58c7b
+hash: sha256:68a7c878e2d21d5eda4951c17b83ee2a5ba344e6b62f41f34a695e18f0887388
