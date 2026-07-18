@@ -26,11 +26,11 @@ assets:
   - {seq: 6, filename: KR4h0007_006-WYG.yaml, hash: 'sha256:275c1b676899032f3d4937c5f02835012e9abe316cf269363c8c92c29ec4fe8e'}
   - {seq: 7, filename: KR4h0007_007-WYG.yaml, hash: 'sha256:4212a4e641b93ec7111ceac9797e2338979220a98c8518bcbd0bf8bebbd08de3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0007_000-WYG.markers.yaml, hash: 'sha256:227512a26f74804602d8c885f2a31188dcec7e0ed691584c03d211a990637ad8'}
-  - {seq: 1, role: markers, filename: assets/KR4h0007_001-WYG.markers.yaml, hash: 'sha256:fcac875368109b3653102b70f6695e2af78e08ade3bc096fa3e464417bb9cb64'}
+  - {seq: 0, role: markers, filename: assets/KR4h0007_000-WYG.markers.yaml, hash: 'sha256:23c42e193022dfdac011065d3589ea09830460c4db4acfbf7add86337185a0d7'}
+  - {seq: 1, role: markers, filename: assets/KR4h0007_001-WYG.markers.yaml, hash: 'sha256:a16282f1a8286e0a5204b170a0251229328152c046f7ef21b27118d4bc6bc928'}
   - {seq: 2, role: markers, filename: assets/KR4h0007_002-WYG.markers.yaml, hash: 'sha256:851429ff2e63b05e82b90ee1d9d8c6f00cb533418bbf8497816f2cd5856cdcd9'}
   - {seq: 3, role: markers, filename: assets/KR4h0007_003-WYG.markers.yaml, hash: 'sha256:e2e7e62edb213f6e3e30f9ef9313abee6d3cfd2213ca5030866eaa0fd205c99c'}
-  - {seq: 4, role: markers, filename: assets/KR4h0007_004-WYG.markers.yaml, hash: 'sha256:4f8e4468f9310cc7ef46654bf039058a70d750a02cacd810820bbc6220d42617'}
+  - {seq: 4, role: markers, filename: assets/KR4h0007_004-WYG.markers.yaml, hash: 'sha256:8f82501264b62c2f13e353a53046dc0a28265780f62be23d559ad529f4e20edd'}
   - {seq: 5, role: markers, filename: assets/KR4h0007_005-WYG.markers.yaml, hash: 'sha256:69d750c18a5b7793659928360f89b64029b0377fbce4a48a1aca301ca28d111e'}
   - {seq: 6, role: markers, filename: assets/KR4h0007_006-WYG.markers.yaml, hash: 'sha256:460a77d03739889e303e72a751a74e8efe76f403b90f930c82907a9090f5996a'}
   - {seq: 7, role: markers, filename: assets/KR4h0007_007-WYG.markers.yaml, hash: 'sha256:5782b5326c3fe293d4b2058d401605caf681fecadbc4ffc56d2f960613229e2c'}
@@ -115,4 +115,4 @@ table_of_contents:
   label: 香山九老詩
   type: section
   level: 1
-hash: sha256:987c5fe25e1b912fe2f0ca6bd691eaf660c7f69e2ce7d5d3ad33fc39a99a2e55
+hash: sha256:80defd78ca394ff0799ef6bb9051ef2e58af0842003e6639d1c17d1c301b031e
